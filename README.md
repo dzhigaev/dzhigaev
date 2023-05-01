@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dzhigaev.
 - 👀 I’m interested in developing usefull applications for everyday usage.
-- 🌱 I’m currently learning django, pytelegramapi.
+- 🌱 I’m currently learning django, DRF, react.
 - 💞️ I’m looking to collaborate on basicaly anything that helps humanity in modern technological world.
 - 📫 How to reach me: email me dzhigaev@gmail.com
 
